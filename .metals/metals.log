@@ -26,3 +26,65 @@ INFO: Migrating schema "PUBLIC" to version "4 - Fingerprints"
 Aug 21, 2023 10:55:47 PM org.flywaydb.core.internal.command.DbMigrate logSummary
 INFO: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.033s)
 2023.08.21 22:55:47 INFO  time: initialize in 0.9s
+2023.08.21 22:55:52 INFO  Running List(C:\Users\Vishwa\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\Vishwa\Documents\MYWORK\scala\Patrical 09)
+2023.08.21 22:55:53 INFO  Attempting to connect to the build server...
+2023.08.21 22:55:53 INFO  Running BSP server List(C:\Users\Vishwa\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Vishwa\Documents\MYWORK\scala\Patrical 09\.scala-build\ide-options-v2.json, C:\Users\Vishwa\Documents\MYWORK\scala\Patrical 09)
+2023.08.21 22:55:52 WARN  No build session currently active to reload.
+2023.08.21 22:55:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Vishwa\Documents\MYWORK\scala\Patrical 09\.metals\bsp.trace.json or C:\Users\Vishwa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.08.21 22:55:55 INFO  BSP server: Starting compilation server
+2023.08.21 22:55:59 INFO  no build target found for C:\Users\Vishwa\Documents\MYWORK\scala\Patrical 09\Question01.scala. Using presentation compiler with project's scala-library version: 3.3.0
+2023.08.21 22:56:01 INFO  time: code lens generation in 12s
+2023.08.21 22:56:04 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/scala-library/
+2023.08.21 22:56:04 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/scala-library/
+2023.08.21 22:56:04 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/scala-library/maven-metadata.xml
+2023.08.21 22:56:04 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/scala-library/maven-metadata.xml
+2023.08.21 22:56:04 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/
+2023.08.21 22:56:04 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/
+2023.08.21 22:56:04 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/
+2023.08.21 22:56:05 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/
+2023.08.21 22:56:05 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/maven-metadata.xml
+2023.08.21 22:56:05 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/maven-metadata.xml
+2023.08.21 22:56:05 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/maven-metadata.xml
+2023.08.21 22:56:05 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/maven-metadata.xml
+2023.08.21 22:56:07 INFO  time: Connected to build server in 14s
+2023.08.21 22:56:07 INFO  Connected to Build server: scala-cli v1.0.0
+2023.08.21 22:56:07 INFO  time: Imported build in 0.47s
+2023.08.21 22:56:09 INFO  compiling project_bd2c96d2de (1 scala source)
+2023.08.21 22:56:11 INFO  time: indexed workspace in 3.81s
+2023.08.21 22:56:14 INFO  time: compiled project_bd2c96d2de in 5.2s
+2023.08.21 23:10:21 INFO  Disconnecting from scala-cli session...
+2023.08.21 23:10:21 INFO  Shut down connection with build server.
+2023.08.21 23:10:21 INFO  Attempting to connect to the build server...
+2023.08.21 23:10:21 INFO  Cancelling compilation on scala-cli server
+2023.08.21 23:10:21 INFO  Running BSP server List(C:\Users\Vishwa\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Vishwa\Documents\MYWORK\scala\Patrical 09\.scala-build\ide-options-v2.json, C:\Users\Vishwa\Documents\MYWORK\scala\Patrical 09)
+2023.08.21 23:10:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Vishwa\Documents\MYWORK\scala\Patrical 09\.metals\bsp.trace.json or C:\Users\Vishwa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.08.21 23:10:26 INFO  time: Connected to build server in 4.67s
+2023.08.21 23:10:26 INFO  Connected to Build server: scala-cli v1.0.0
+2023.08.21 23:10:27 INFO  compiling project_bd2c96d2de (1 scala source)
+2023.08.21 23:10:27 INFO  time: compiled project_bd2c96d2de in 0.24s
+2023.08.21 23:10:28 INFO  time: indexed workspace in 1.69s
+2023.08.21 23:10:32 INFO  Refreshed build after change
+2023.08.21 23:10:33 WARN  no build target for: C:\Users\Vishwa\Documents\MYWORK\scala\Patrical 09\Question03.scala
+2023.08.21 23:10:33 INFO  Disconnecting from scala-cli session...
+2023.08.21 23:10:33 INFO  Shut down connection with build server.
+2023.08.21 23:10:33 INFO  Attempting to connect to the build server...
+2023.08.21 23:10:33 INFO  Running BSP server List(C:\Users\Vishwa\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Vishwa\Documents\MYWORK\scala\Patrical 09\.scala-build\ide-options-v2.json, C:\Users\Vishwa\Documents\MYWORK\scala\Patrical 09)
+2023.08.21 23:10:33 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Vishwa\Documents\MYWORK\scala\Patrical 09\.metals\bsp.trace.json or C:\Users\Vishwa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.08.21 23:10:38 INFO  time: Connected to build server in 5.14s
+2023.08.21 23:10:38 INFO  Connected to Build server: scala-cli v1.0.0
+2023.08.21 23:10:39 INFO  compiling project_bd2c96d2de (1 scala source)
+2023.08.21 23:10:39 INFO  time: compiled project_bd2c96d2de in 0.28s
+2023.08.21 23:10:40 INFO  time: indexed workspace in 1.5s
+2023.08.21 23:10:41 INFO  Refreshed build after change
+2023.08.21 23:10:48 WARN  no build target for: C:\Users\Vishwa\Documents\MYWORK\scala\Patrical 09\Question04.scala
+2023.08.21 23:10:49 INFO  Disconnecting from scala-cli session...
+2023.08.21 23:10:48 INFO  Shut down connection with build server.
+2023.08.21 23:10:48 INFO  Attempting to connect to the build server...
+2023.08.21 23:10:48 INFO  Running BSP server List(C:\Users\Vishwa\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Vishwa\Documents\MYWORK\scala\Patrical 09\.scala-build\ide-options-v2.json, C:\Users\Vishwa\Documents\MYWORK\scala\Patrical 09)
+2023.08.21 23:10:49 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Vishwa\Documents\MYWORK\scala\Patrical 09\.metals\bsp.trace.json or C:\Users\Vishwa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.08.21 23:10:53 INFO  time: Connected to build server in 4.5s
+2023.08.21 23:10:53 INFO  Connected to Build server: scala-cli v1.0.0
+2023.08.21 23:10:53 INFO  compiling project_bd2c96d2de (1 scala source)
+2023.08.21 23:10:53 INFO  time: compiled project_bd2c96d2de in 0.15s
+2023.08.21 23:10:55 INFO  time: indexed workspace in 1.61s
+2023.08.21 23:10:57 INFO  Refreshed build after change
